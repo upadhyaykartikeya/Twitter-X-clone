@@ -104,5 +104,5 @@
     "wrap-ansi-cjs": "^7.0.0",
     "yaml": "^2.7.0"
   },
-  "description": ""
+  "description": "```\r This is a clone of twitter.com\r ```\r ```\r Primary tech used is TailwindCSS and HTML\r ```"
 }
